@@ -180,6 +180,8 @@ Para integrar seu MCP Server com o Claude Desktop e permitir que o modelo descub
 
 Pronto! O Claude agora poderá listar automaticamente as ferramentas MCP disponíveis no seu projeto `CityServices` e utilizá-las conforme o contexto da conversa.
 
+![Image](https://github.com/user-attachments/assets/f086157a-cb5a-48a2-be5d-3bc0120fe72a)
+
 ---
 
 ## 📬 Contato
